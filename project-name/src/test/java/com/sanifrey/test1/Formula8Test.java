@@ -1,5 +1,5 @@
 /** 
-* Устанавливаем принадлежность класса к пакету com.sanifrey.test1
+* Устанавливаем принадлежность класса к пакету              com.sanifrey.test1
 */
 package com.sanifrey.test1;
 
