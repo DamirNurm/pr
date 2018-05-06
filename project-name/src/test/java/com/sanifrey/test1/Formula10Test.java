@@ -1,5 +1,5 @@
 /** 
-* Устанавливаем принадлежность класса к пакету              com.sanifrey.test1
+* Устанавливаем принадлежность класса к пакету        com.sanifrey.test1
 */
 package com.sanifrey.test1;
 
@@ -19,7 +19,7 @@ import static org.junit.Assert.assertEquals;
 /**
  * Основной класс
  */
-public class Formula8Test {
+public class Formula10Test {
 	/**
 	 * Объявляем переменную типа Formula
 	 */
